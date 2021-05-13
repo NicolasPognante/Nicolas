@@ -1,0 +1,21 @@
+.container {
+  width: 900px;
+  margin: auto;
+}
+
+.banner {
+  background-image: url(https://res.cloudinary.com/wagon/image/upload/c_fill,h_420,q_auto,w_976/v1576070564/pvo5jxjhrojhgcyxbnfd.webp);
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: white;
+}
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+}
